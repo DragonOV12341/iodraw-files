@@ -56,6 +56,9 @@
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-4" value="&lt;div style=&quot;color: rgb(218, 218, 218); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;collectNeedInferOps&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eslMHiwqRzCbPUy5Uo-n-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eslMHiwqRzCbPUy5Uo-n-6" target="eslMHiwqRzCbPUy5Uo-n-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-6" value="&lt;div style=&quot;color: rgb(218, 218, 218); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;need_infer_ops&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="330" width="150" height="40" as="geometry" />
         </mxCell>
@@ -119,11 +122,14 @@
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-30" value="&lt;div style=&quot;color: rgb(218, 218, 218); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;applyGemmBInfo&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="740" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eslMHiwqRzCbPUy5Uo-n-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eslMHiwqRzCbPUy5Uo-n-32" target="eslMHiwqRzCbPUy5Uo-n-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-32" value="如果无可直接推定的Op锚点，assert false" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eslMHiwqRzCbPUy5Uo-n-34" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="640" width="80" height="80" as="geometry" />
+        <mxCell id="eslMHiwqRzCbPUy5Uo-n-35" value="&lt;div style=&quot;color: rgb(218, 218, 218); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;need_infer_ops 非空？&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="184" y="620" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
