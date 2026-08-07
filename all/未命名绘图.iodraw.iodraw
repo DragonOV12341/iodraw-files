@@ -141,10 +141,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-35" value="&lt;div style=&quot;color: rgb(218, 218, 218); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;need_infer_ops 非空？&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="184" y="620" width="170" height="60" as="geometry" />
+          <mxGeometry x="80" y="620" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-39" value="inferRelyOp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="64" y="770" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eslMHiwqRzCbPUy5Uo-n-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="195" y="725" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eslMHiwqRzCbPUy5Uo-n-43" value="如果为 BlockOp" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
