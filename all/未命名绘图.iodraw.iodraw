@@ -260,7 +260,10 @@
           <mxGeometry x="-750" y="40" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yYXRaYw_TLtpLhub8n5m-2" value="对于 buf_info_map, 缺少 layout冲突时 convert的表达。且不方便表示buffer何时需要转化Layout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="100" width="530" height="30" as="geometry" />
+          <mxGeometry x="-760" y="110" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yYXRaYw_TLtpLhub8n5m-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
