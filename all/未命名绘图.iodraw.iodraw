@@ -23,7 +23,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_4wDrDJRJsEU8Y4JxBSs" name="第 2 页">
-    <mxGraphModel dx="2704" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,11 +256,11 @@
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-75" value="Return buf_info_maps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yYXRaYw_TLtpLhub8n5m-1" value="当前存在的问题：&lt;br&gt;对于Kernel里的所有GEMM，是否应一起参加 InstSelect？——保证wgmma指令统一" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yYXRaYw_TLtpLhub8n5m-1" value="&lt;br&gt;对于Kernel里的所有GEMM，是否应一起参加 InstSelect？——保证wgmma指令统一" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-750" y="40" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yYXRaYw_TLtpLhub8n5m-2" value="对于 buf_info_map, 缺少 layout冲突时 convert的表达。且不方便表示buffer何时需要转化Layout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-985" y="98" width="530" height="30" as="geometry" />
+          <mxGeometry x="-760" y="100" width="530" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
