@@ -132,8 +132,19 @@
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-32" value="如果无可直接推定的Op锚点，assert false" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eslMHiwqRzCbPUy5Uo-n-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eslMHiwqRzCbPUy5Uo-n-35" target="eslMHiwqRzCbPUy5Uo-n-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eslMHiwqRzCbPUy5Uo-n-41" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eslMHiwqRzCbPUy5Uo-n-40">
+          <mxGeometry x="0.0216" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-35" value="&lt;div style=&quot;color: rgb(218, 218, 218); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;need_infer_ops 非空？&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="184" y="620" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eslMHiwqRzCbPUy5Uo-n-39" value="inferRelyOp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="770" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
