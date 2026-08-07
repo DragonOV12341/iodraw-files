@@ -122,6 +122,9 @@
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-32" value="如果无可直接推定的Op锚点，assert false" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eslMHiwqRzCbPUy5Uo-n-34" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
