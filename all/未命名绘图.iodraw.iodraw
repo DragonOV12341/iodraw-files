@@ -23,7 +23,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_4wDrDJRJsEU8Y4JxBSs" name="第 2 页">
-    <mxGraphModel dx="2704" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,8 +256,8 @@
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-75" value="Return buf_info_maps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yYXRaYw_TLtpLhub8n5m-1" value="当前存在的问题：&lt;br&gt;对于Kernel里的所有GEMM，是否应一起参加 InstSelect？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-915" y="33" width="330" height="40" as="geometry" />
+        <mxCell id="yYXRaYw_TLtpLhub8n5m-1" value="当前存在的问题：&lt;br&gt;对于Kernel里的所有GEMM，是否应一起参加 InstSelect？" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="40" width="330" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
