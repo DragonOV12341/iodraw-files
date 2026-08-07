@@ -184,20 +184,26 @@
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-55" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="230" y="850" width="20" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="eslMHiwqRzCbPUy5Uo-n-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eslMHiwqRzCbPUy5Uo-n-56" target="eslMHiwqRzCbPUy5Uo-n-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-56" value="&lt;div style=&quot;color: rgb(218, 218, 218); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;selectGemmInst&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="850" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eslMHiwqRzCbPUy5Uo-n-57" target="eslMHiwqRzCbPUy5Uo-n-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eslMHiwqRzCbPUy5Uo-n-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eslMHiwqRzCbPUy5Uo-n-57" target="eslMHiwqRzCbPUy5Uo-n-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-57" value="如果A或B已经推定" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eslMHiwqRzCbPUy5Uo-n-58" value="&lt;div style=&quot;color: rgb(218, 218, 218); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;makeRelyGemmCInfo&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eslMHiwqRzCbPUy5Uo-n-60" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="980" width="120" height="60" as="geometry" />
+        <mxCell id="eslMHiwqRzCbPUy5Uo-n-60" value="若A推定了" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
