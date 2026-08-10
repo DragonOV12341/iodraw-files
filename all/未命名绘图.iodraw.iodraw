@@ -23,7 +23,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_4wDrDJRJsEU8Y4JxBSs" name="第 2 页">
-    <mxGraphModel dx="2293" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2011" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,7 +265,7 @@
         <mxCell id="yYXRaYw_TLtpLhub8n5m-4" value="Layout目前只考虑了Buffer的逻辑布局，没考虑物理的——需要考虑物理的stride嘛？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-760" y="168" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oN81ahci4dc3JtpM2qBA-1" value="修改规则 ：&amp;nbsp;&lt;br&gt;GEMMOP推断——先推所有的gemm&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="oN81ahci4dc3JtpM2qBA-1" value="修改规则 ：&amp;nbsp;&lt;br&gt;GEMMOP推断——先推所有的gemm&lt;div&gt;之后查看协调性。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="900" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
