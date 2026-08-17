@@ -65,7 +65,7 @@
           <mxGeometry x="445" y="2163" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-7" value="用户自定义。只需要满足=blockDim即可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="2168" width="240" height="30" as="geometry" />
+          <mxGeometry x="670" y="2168" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
