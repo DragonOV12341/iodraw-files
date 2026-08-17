@@ -73,8 +73,11 @@
         <mxCell id="eUPstgHjJ861-vKgltR8-7" value="用户自定义。只需要满足=blockDim即可" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="2168" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eUPstgHjJ861-vKgltR8-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="345" y="2268" width="50" height="30" as="geometry" />
+        <mxCell id="eUPstgHjJ861-vKgltR8-10" value="wmmaInst" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="2268" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eUPstgHjJ861-vKgltR8-11" value="ABC 指令级访问模式固定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="2268" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
