@@ -139,8 +139,8 @@
         <mxCell id="eUPstgHjJ861-vKgltR8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eUPstgHjJ861-vKgltR8-28" target="eUPstgHjJ861-vKgltR8-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eUPstgHjJ861-vKgltR8-28" value="可求两轴循环次数br" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="855" y="2390" width="130" height="30" as="geometry" />
+        <mxCell id="eUPstgHjJ861-vKgltR8-28" value="可求两轴循环次数br[x,y]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="2405" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-31" value="可能conflict" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="940" y="2358" width="80" height="30" as="geometry" />
