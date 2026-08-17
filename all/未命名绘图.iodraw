@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-1" value="warp-level inst 决定&lt;br&gt;（指令tile固定+tid索引方式固定）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="2008" width="190" height="30" as="geometry" />
+          <mxGeometry x="710" y="2008" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-3" value="block_repeat&lt;br&gt;指令在buffer上的平铺次数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="2093" width="160" height="40" as="geometry" />
@@ -64,8 +64,8 @@
         <mxCell id="eUPstgHjJ861-vKgltR8-4" value="BufferSize" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="695.81" y="2098" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eUPstgHjJ861-vKgltR8-6" value="block_layout + order&lt;div&gt;&lt;b&gt;warp_layout + order&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;（tidx映射规则）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="2170" width="140" height="60" as="geometry" />
+        <mxCell id="eUPstgHjJ861-vKgltR8-6" value="block_layout + order&lt;div&gt;&lt;b&gt;warp_layout + order&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;（block内tidx映射规则）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="2170" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eUPstgHjJ861-vKgltR8-7" target="eUPstgHjJ861-vKgltR8-6">
           <mxGeometry relative="1" as="geometry" />
