@@ -52,8 +52,8 @@
         <mxCell id="eUPstgHjJ861-vKgltR8-1" value="warp-level inst 决定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="2008" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eUPstgHjJ861-vKgltR8-3" value="block_repeat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="465" y="2098" width="90" height="30" as="geometry" />
+        <mxCell id="eUPstgHjJ861-vKgltR8-3" value="block_repeat&lt;br&gt;指令在buffer上的平铺次数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="2093" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eUPstgHjJ861-vKgltR8-4" target="eUPstgHjJ861-vKgltR8-3">
           <mxGeometry relative="1" as="geometry" />
