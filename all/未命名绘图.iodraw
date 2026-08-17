@@ -94,6 +94,9 @@
         <mxCell id="eUPstgHjJ861-vKgltR8-13" value="inst在buffer上平铺次数固定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="2298" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eUPstgHjJ861-vKgltR8-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="805" y="2238" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
