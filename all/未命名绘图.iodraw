@@ -85,8 +85,8 @@
         <mxCell id="eUPstgHjJ861-vKgltR8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eUPstgHjJ861-vKgltR8-11" target="eUPstgHjJ861-vKgltR8-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eUPstgHjJ861-vKgltR8-11" value="ABC 指令级访问模式固定[ tx,ty, wr, wl&amp;nbsp; ]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="435" y="2260" width="230" height="30" as="geometry" />
+        <mxCell id="eUPstgHjJ861-vKgltR8-11" value="ABC 指令级访问模式固定（最少情况）[ tx,ty, wr, wl&amp;nbsp; ]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="2260" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eUPstgHjJ861-vKgltR8-12" target="eUPstgHjJ861-vKgltR8-13">
           <mxGeometry relative="1" as="geometry" />
