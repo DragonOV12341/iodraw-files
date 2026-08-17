@@ -43,14 +43,14 @@
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-7" value="data_warp1&lt;div&gt;i=3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="185.04" y="2108" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eUPstgHjJ861-vKgltR8-0" value="thread_witdh&lt;div&gt;warp_layout + order&lt;/div&gt;&lt;div&gt;warp_repeat + order&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="465" y="1988" width="130" height="70" as="geometry" />
+        <mxCell id="eUPstgHjJ861-vKgltR8-0" value="thread_witdh&lt;div&gt;warp_layout + order&lt;/div&gt;&lt;div&gt;warp_repeat + order&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="465" y="1993" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eUPstgHjJ861-vKgltR8-1" target="eUPstgHjJ861-vKgltR8-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-1" value="warp-level inst 决定&lt;br&gt;（指令tile固定+tid索引方式固定）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="2008" width="60" height="30" as="geometry" />
+          <mxGeometry x="680" y="2008" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-3" value="block_repeat&lt;br&gt;指令在buffer上的平铺次数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="2093" width="160" height="40" as="geometry" />
