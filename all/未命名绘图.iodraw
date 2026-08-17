@@ -109,8 +109,8 @@
         <mxCell id="eUPstgHjJ861-vKgltR8-21" value="blockOp memref尺寸已知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="2380" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eUPstgHjJ861-vKgltR8-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="645" y="2378" width="50" height="30" as="geometry" />
+        <mxCell id="eUPstgHjJ861-vKgltR8-22" value="thread计算元素数固定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="2390" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
