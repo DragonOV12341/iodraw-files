@@ -136,6 +136,9 @@
         <mxCell id="eUPstgHjJ861-vKgltR8-22" value="blkOp：thread计算元素数固定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="2390" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eUPstgHjJ861-vKgltR8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eUPstgHjJ861-vKgltR8-28" target="eUPstgHjJ861-vKgltR8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-28" value="可求循环次数br" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="865" y="2390" width="110" height="30" as="geometry" />
         </mxCell>
