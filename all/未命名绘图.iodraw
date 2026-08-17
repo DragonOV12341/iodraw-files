@@ -79,6 +79,9 @@
         <mxCell id="eUPstgHjJ861-vKgltR8-11" value="ABC 指令级访问模式固定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="2268" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eUPstgHjJ861-vKgltR8-12" value="bufferSz 固定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="2298" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
