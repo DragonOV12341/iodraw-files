@@ -113,8 +113,8 @@
         <mxCell id="eUPstgHjJ861-vKgltR8-17" value="blockThread固定，warp数固定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="2238" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eUPstgHjJ861-vKgltR8-18" value="某warp上&lt;span style=&quot;background-color: initial;&quot;&gt;warpInst 循环次数固定&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="2328" width="190" height="30" as="geometry" />
+        <mxCell id="eUPstgHjJ861-vKgltR8-18" value="某warp上&lt;span style=&quot;background-color: initial;&quot;&gt;warpInst 循环次数固定（br）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="2328" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eUPstgHjJ861-vKgltR8-21" target="eUPstgHjJ861-vKgltR8-22">
           <mxGeometry relative="1" as="geometry" />
@@ -130,11 +130,14 @@
         <mxCell id="eUPstgHjJ861-vKgltR8-21" value="blockOp memref尺寸已知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="2380" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eUPstgHjJ861-vKgltR8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eUPstgHjJ861-vKgltR8-22" target="eUPstgHjJ861-vKgltR8-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-22" value="blkOp：thread计算元素数固定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="2390" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eUPstgHjJ861-vKgltR8-28" value="循环次数br" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="790" y="2428" width="80" height="30" as="geometry" />
+          <mxGeometry x="855" y="2428" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
