@@ -100,9 +100,6 @@
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-40" value="warp1_inst{i=0}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lRZ2CZrAhRnv7iBW2tVA-41">
           <mxGeometry x="100" y="60" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-42" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="431.62" y="2000" width="200" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-43" value="single iter[0]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="486.62" y="1980" width="90" height="30" as="geometry" />
         </mxCell>
@@ -255,8 +252,8 @@
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-133" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="2030" as="sourcePoint" />
-            <mxPoint x="730" y="1980" as="targetPoint" />
+            <mxPoint x="660" y="2010" as="sourcePoint" />
+            <mxPoint x="740" y="2010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
