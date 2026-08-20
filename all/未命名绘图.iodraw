@@ -286,6 +286,9 @@
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-148" value="SingleIterAreaPerBlock&amp;nbsp; * &lt;i&gt;blockRepeat &lt;/i&gt;= 整个block-level buffer区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="2418" width="380" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-149" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="2050" width="35" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
