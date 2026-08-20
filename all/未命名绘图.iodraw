@@ -277,8 +277,8 @@
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-144" value="thread_creg * warp_layout * warp_repeat&amp;nbsp; = warpInst 计算的区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="239" y="2328" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-145" value="warpInstData *&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="265" y="2368" width="110" height="30" as="geometry" />
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-145" value="warpInstArea * warpInstUnroll = 单次循环计算区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="241.62" y="2350" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
