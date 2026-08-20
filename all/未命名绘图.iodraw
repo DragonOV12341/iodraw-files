@@ -268,8 +268,8 @@
             <mxPoint y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-121" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="255" y="2318" width="50" height="30" as="geometry" />
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-121" value="warp_repeat&amp;amp;order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="2318" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
