@@ -82,7 +82,7 @@
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-32" value="Block-level Buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="373" y="1968" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-41" value="" style="group;shadow=0;fillColor=#000000;fillStyle=hatch;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-41" value="" style="group;shadow=0;fillColor=#000000;fillStyle=hatch;dashed=1;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="2010" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-0" value="warp0_inst {i=0}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="lRZ2CZrAhRnv7iBW2tVA-41">
