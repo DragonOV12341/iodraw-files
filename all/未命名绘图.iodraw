@@ -290,7 +290,10 @@
           <mxGeometry x="86.57" y="1946.57" width="35" height="103.13" as="geometry" />
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-150" value="warp_width" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-45" y="2125" width="80" height="30" as="geometry" />
+          <mxGeometry x="45" y="1960" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-151" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-55" y="2190" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
