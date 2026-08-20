@@ -269,7 +269,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-121" value="warp_repeat&amp;amp;order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="2260" width="130" height="30" as="geometry" />
+          <mxGeometry x="100" y="2230" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
