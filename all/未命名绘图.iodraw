@@ -457,8 +457,8 @@
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-199" value="wr=[N,M]&amp;nbsp; &amp;nbsp;wro=[0,1]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="741.62" y="2680" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-201" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="735" y="2738" width="50" height="30" as="geometry" />
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-201" value="iter_reg[0] * creg[0] + tid[0] * creg[0]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="2750" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
