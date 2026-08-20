@@ -80,7 +80,7 @@
           <mxGeometry x="640" y="2190" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-32" value="Block-level Buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="373" y="1950" width="140" height="30" as="geometry" />
+          <mxGeometry x="373" y="1940" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-41" value="" style="group;shadow=0;fillColor=#000000;fillStyle=hatch;dashed=1;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="2010" width="200" height="120" as="geometry" />
@@ -100,7 +100,7 @@
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-42" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="1990" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-43" value="单次迭代" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-43" value="single iter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="205" y="1970" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
