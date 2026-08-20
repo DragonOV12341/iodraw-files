@@ -94,17 +94,6 @@
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-32" value="Block-level Buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="373" y="1968" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="1990" as="sourcePoint" />
-            <mxPoint x="210" y="1990" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-34" value="for 迭代方向" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lRZ2CZrAhRnv7iBW2tVA-33">
-          <mxGeometry x="0.34" relative="1" as="geometry">
-            <mxPoint x="-17" y="-15" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="1990" as="sourcePoint" />
