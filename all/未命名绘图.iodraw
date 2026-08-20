@@ -80,7 +80,7 @@
           <mxGeometry x="640" y="2190" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-32" value="Block-level Buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="373" y="1968" width="140" height="30" as="geometry" />
+          <mxGeometry x="373" y="1950" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-41" value="" style="group;shadow=0;fillColor=#000000;fillStyle=hatch;dashed=1;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="2010" width="200" height="120" as="geometry" />
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-40" value="warp1_inst{i=0}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lRZ2CZrAhRnv7iBW2tVA-41">
           <mxGeometry x="100" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-42" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="1990" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
