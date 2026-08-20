@@ -346,6 +346,12 @@
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-168" value="t3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="361" y="2590" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-169" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="2630" as="sourcePoint" />
+            <mxPoint x="280" y="2630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
