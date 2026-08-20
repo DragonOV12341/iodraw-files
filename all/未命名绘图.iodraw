@@ -118,7 +118,7 @@
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="2240" as="sourcePoint" />
-            <mxPoint x="340" y="2070" as="targetPoint" />
+            <mxPoint x="350" y="2240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-77" value="single warp_inst" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -258,6 +258,9 @@
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-135" value="block_repeat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="666.12" y="1977" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-136" value="singleIter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="335" y="2048" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
