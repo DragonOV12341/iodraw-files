@@ -281,7 +281,10 @@
           <mxGeometry x="216.62" y="2358" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-147" value="SingleIterAreaPerwarp * blockLayout = SingleIterAreaPerBlock&amp;nbsp; block内所有warp单次迭代计算区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="191.62" y="2388" width="550" height="30" as="geometry" />
+          <mxGeometry x="216.62" y="2388" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-148" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="2418" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
