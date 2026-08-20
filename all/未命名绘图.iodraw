@@ -274,11 +274,11 @@
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-143" value="warpInstUnroll" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="482" y="1993" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-144" value="thread_creg * warp_layout * warp_repeat&amp;nbsp; = warpInst Area， 单个warpInst计算的区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="2328" width="480" height="30" as="geometry" />
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-144" value="thread_creg * warp_layout * warp_repeat&amp;nbsp; = warpInst Area， 单个warp单个warpInst计算的区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="195" y="2328" width="530" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-145" value="warpInstArea * warpInstUnroll = 单个warp单次循环计算区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200.63" y="2358" width="340" height="30" as="geometry" />
+          <mxGeometry x="220" y="2358" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
