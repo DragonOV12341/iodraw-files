@@ -277,13 +277,13 @@
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-144" value="thread_creg * warp_layout * &lt;i&gt;warp_repeat&amp;nbsp; &lt;/i&gt;= warpInstArea， 单个warp单个warpInst计算的区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="221.62" y="2328" width="520" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-145" value="warpInstArea * warpInstUnroll = SingleIterAreaPerWarp 单个warp单次循环计算区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-145" value="warpInstArea * &lt;i&gt;warpInstUnroll &lt;/i&gt;= SingleIterAreaPerWarp 单个warp单次循环计算区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="216.62" y="2358" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-147" value="SingleIterAreaPerwarp * blockLayout = SingleIterAreaPerBlock&amp;nbsp; block内所有warp单次迭代计算区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="216.62" y="2388" width="550" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-148" value="SingleIterAreaPerBlock&amp;nbsp; * blockRepeat = 整个block-level buffer区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lRZ2CZrAhRnv7iBW2tVA-148" value="SingleIterAreaPerBlock&amp;nbsp; * &lt;i&gt;blockRepeat &lt;/i&gt;= 整个block-level buffer区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="2418" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
