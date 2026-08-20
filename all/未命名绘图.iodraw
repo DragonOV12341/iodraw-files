@@ -104,7 +104,7 @@
           <mxGeometry x="496.62" y="1977" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="401.62" y="2020" width="20" height="240" as="geometry" />
+          <mxGeometry x="401.62" y="2020" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-72" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="371.62" y="2125" width="30" height="30" as="geometry" />
@@ -260,7 +260,7 @@
           <mxGeometry x="522.5" y="1902.5" width="20" height="205" as="geometry" />
         </mxCell>
         <mxCell id="lRZ2CZrAhRnv7iBW2tVA-135" value="block_repeat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="625" y="1978" width="90" height="30" as="geometry" />
+          <mxGeometry x="666.12" y="1977" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
