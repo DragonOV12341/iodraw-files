@@ -515,7 +515,7 @@
           <mxGeometry x="530" y="3310" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ax0pJrRrpjb32VPxel8d-17" value="S轴：bx" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="435" y="3258" width="70" height="30" as="geometry" />
+          <mxGeometry x="434.5" y="3270" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
