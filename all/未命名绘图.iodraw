@@ -521,7 +521,10 @@
           <mxGeometry x="441.62" y="3230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ax0pJrRrpjb32VPxel8d-20" value="本质是用stride数组描述一个buffer在物理层面怎么存放（所有buffer都是一根连续的线）&lt;div&gt;bx by bz 描述任务在block层的切分——绑定不同的stride轴，对应不同的线段粒度&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="115.03999999999999" y="3415" width="490" height="40" as="geometry" />
+          <mxGeometry x="125" y="3420" width="490" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ax0pJrRrpjb32VPxel8d-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="125" y="2478" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
