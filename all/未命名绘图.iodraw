@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fiIA1qHDvNzUDsctmrS0-1" value="vscode-remote://ssh-remote%2Bnv-h100/data2/xsl/DeepGenGraph/image_comments/LowerInfo.png" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="170" width="560" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
